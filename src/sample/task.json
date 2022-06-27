@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "curso fazt",
+        "description": "hacer la app del curso",
+        "done": false
+    },
+    {
+        "id": 1,
+        "title": "instalar app",
+        "description": "Realizar la instalacion de la app 'reminder' nativa de vtex",
+        "done": false
+    },  
+    {
+        "id": 2,
+        "title": "crear app",
+        "description": "Crear una aplicacion desde cero para poder rifarme mucho mucho y ganar un chingo de dinero para alimentar perritos y gatitos de la calle. Aunque me muerdan los culeros",
+        "done": false
+    }  
+  ]
